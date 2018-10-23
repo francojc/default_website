@@ -1,0 +1,27 @@
+---
+title: "Schedule"
+---
+
+```{r, child="_setup.Rmd"}
+```
+
+# Week 1
+
+## Tuesday
+
+## Thursday
+
+# Week 2
+
+## Tuesday
+
+## Thursday
+
+# Week 3
+
+## Tuesday
+
+## Thursday
+
+
+# References

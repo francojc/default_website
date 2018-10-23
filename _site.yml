@@ -1,20 +1,20 @@
-name: "Data Analysis in R"
+name: "LIN 380: Language Use and Technology"
 output_dir: "docs"
 navbar:
-  title: "Data Analysis in R"
+  title: "LIN 380: Language Use and Technology"
   right:
-  - text: "Course Notes"
+  - text: "Course"
     icon: fa-book
-    href: course_notes.html
-  - text: "Pre-Work"
+    href: index.html
+  - text: "Schedule"
     icon: fa-paper-plane
-    href: pre_work.html
-  - text: "Project"
+    href: schedule.html
+  - text: "Announcements"
     icon: fa-folder
-    href: project.html
+    href: announcements.html
 output:
   html_document:
-    theme: journal
+    theme: readable
     highlight: textmate
     css: css/style.css
     df_print: paged

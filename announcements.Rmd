@@ -1,0 +1,9 @@
+---
+title: "Announcements"
+---
+
+```{r, child="_setup.Rmd"}
+```
+
+## October 23 {#sec-2018-10-23}
+
